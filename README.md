@@ -1,0 +1,2 @@
+- pyautogui (screen capture + keyboard control)
+  - pip3 install pyautogui
