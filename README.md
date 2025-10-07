@@ -3,10 +3,10 @@ For computer 2048 (https://2048game.com/) as it allows key arrows
 
 Tech Stack: 
 
-Selenium for tracking and moving the website
-Gymnasium environment wraps the Selenium system for training
-PyTorch is where we make the models, that is then trained in the environment
-Numpy uses the 4x4 grids as the 2048
+- Selenium for tracking and moving the website
+- Gymnasium environment wraps the Selenium system for training
+- PyTorch is where we make the models, that is then trained in the environment
+- Numpy uses the 4x4 grids as the 2048
 
 
 Steps:
